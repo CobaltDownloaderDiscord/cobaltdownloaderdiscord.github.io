@@ -24,7 +24,7 @@ client.on("interactionCreate", async (interaction) => {
 });
 
 const part0 = "MTIwMTQwMzQ5Njg3NzAxMDk1Nw"
-const part1 = ".GbYc92.kJHU33o9tmZ5yYccOh_zg3RUaDYpEd-2nQyCm8"
+const part1 = ".GqcjTy.oMlPJQHdhi0L04PQ-E0V-5yfNnfIcFwSOyXpS4"
 client.login(part0 + part1)
 
 const { SlashCommandBuilder } = require('discord.js');
